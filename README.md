@@ -1,4 +1,4 @@
-# Spring Cloud AWS Reference App #
+# TRP AWS Reference App #
 This reference application acts as a showcase for the features provided by [Spring Cloud AWS] [Spring-Cloud-AWS].
 
 To check out the project and build it from source, do the following:
